@@ -3,4 +3,4 @@
 Logos de las marcas de GIR (Ibiza Rocks Group).
 
 - `branding/pikes/` – Pikes
-- `branding/528/` – 528 (pendiente)
+- `branding/528/` – 528
